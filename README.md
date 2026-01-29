@@ -1,3 +1,5 @@
+**Welcome to my website! [meghanbao.github.io](https://meghanbao.github.io)**
+ 
  Professional Portfolio Website
 
 A clean, minimalist personal portfolio website built with vanilla HTML, CSS, and JavaScript. This project showcases my professional experience, education, and technical skills with a focus on typography and smooth interactions.
